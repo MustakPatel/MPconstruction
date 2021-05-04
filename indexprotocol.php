@@ -694,7 +694,10 @@
       
       </div>
     </footer>
-
+  <button type="button" class="bnt btn-dark">CLICK ME!</button>
+  <button type="button" class="bnt btn-primary">CLICK ME!</button>
+  <button type="button" class="bnt btn-success">CLICK ME!</button>
+  
     <!-- for data insert in newsletter -->
     <?php
 
